@@ -5,6 +5,7 @@ from .config import (
     CARBON_INTENSITY
 )
 
+
 def cpu_energy(time_sec):
     return (CPU_POWER_WATTS * time_sec) / (1000 * 3600)
 
