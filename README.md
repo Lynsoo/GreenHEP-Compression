@@ -104,12 +104,17 @@ cd GreenHEP-Compression
 pip install -r requirements.txt
 ```
 
+To install the GreenHEP package, add : 
+
+```bash
+pip install .
+```
 ---
 
 ## Run Full Experiment
 
 ```bash
-python scripts/run_experiment.py
+python main.py
 ```
 ---
 
