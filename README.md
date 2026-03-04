@@ -99,7 +99,7 @@ Parameters such as CPU power, storage intensity, and retention period are config
 ## Installation
 
 ```bash
-git clone https://github.com/Lynashere/GreenHEP-Compression.git
+git clone https://github.com/lynashere/GreenHEP-Compression.git
 cd GreenHEP-Compression
 pip install -r requirements.txt
 ```
