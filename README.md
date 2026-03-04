@@ -1,6 +1,6 @@
 # GreenHEP-Compression
 
-A research-grade benchmarking framework for evaluating compression algorithms in High Energy Physics (HEP) workflows with integrated energy consumption and carbon footprint analysis.
+A research-grade framework for evaluating compression algorithms in High Energy Physics (HEP) workflows with integrated energy consumption and carbon footprint analysis.
 
 ---
 
@@ -96,22 +96,11 @@ Parameters such as CPU power, storage intensity, and retention period are config
 
 ---
 
-## Repository Structure
-
-```
-greenhep/        # Core framework
-scripts/         # Experiment runner
-data/            # Generated datasets (ignored by git)
-results/         # Outputs (ignored by git)
-```
-
----
-
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/GreenHEP-Compression-Benchmark.git
-cd GreenHEP-Compression-Benchmark
+git clone https://github.com/Lynashere/GreenHEP-Compression.git
+cd GreenHEP-Compression
 pip install -r requirements.txt
 ```
 
