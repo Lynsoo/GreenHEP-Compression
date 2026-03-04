@@ -1,0 +1,11 @@
+NUM_EVENTS = 2_000_000
+
+CPU_POWER_WATTS = 65
+CARBON_INTENSITY = 0.4
+STORAGE_KWH_PER_GB_YEAR = 1.8
+YEARS_STORED = 3
+
+SCALE_FACTOR = 1e6
+
+RAW_FILE = "data/raw_particle.bin"
+DELTA_FILE = "data/delta_particle.bin"
