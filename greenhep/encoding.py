@@ -1,6 +1,7 @@
 import numpy as np
 import struct
 
+
 def delta_encode(input_file, output_file):
     with open(input_file, "rb") as f_in, open(output_file, "wb") as f_out:
         prev = np.zeros(6, dtype=np.int64)
