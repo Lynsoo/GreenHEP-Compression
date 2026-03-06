@@ -123,7 +123,7 @@ python main.py
 * Sustainable computing in High Energy Physics
 * Green data center optimization
 * Compression-energy tradeoff analysis
-* MSc / PhD computational research
+* Computational research
 * Infrastructure carbon auditing
 
 ---
